@@ -1,4 +1,4 @@
-# Guia de estilos
+<h1 align="center">Guia de estilos</h1>
 
 Toda a estilização que será usada no projeto dentro do figma.
 
