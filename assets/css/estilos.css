@@ -81,7 +81,8 @@ body {
         display: block;
         width: 32px;
         height: 32px;
-        background-image: url(../img/profile_2.png);
+        background-image: url(../img/profile_4.png);
+        border-radius: 10px;
         background-size: contain;
         background-repeat: no-repeat;
         background-position: center;
