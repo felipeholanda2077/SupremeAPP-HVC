@@ -1,6 +1,6 @@
 <h1 align="center">Guia de estilos</h1>
 
-Toda a estilização que será usada no projeto dentro do figma.
+<p align="center">Toda a estilização que será usada no projeto dentro do figma.</p>
 
 [Link do projeto no figma](https://www.figma.com/file/ibWktwVpnog76rMYOdVhks/Dispondo-elementos-com-flexbox-e-grid?node-id=54%3A2358)
 
