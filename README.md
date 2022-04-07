@@ -2,7 +2,7 @@
 
 <p align="center">Toda a estilização que será usada no projeto dentro do figma.</p>
 
-<button>[Link do projeto no figma](https://www.figma.com/file/ibWktwVpnog76rMYOdVhks/Dispondo-elementos-com-flexbox-e-grid?node-id=54%3A2358)</button>
+<button align="center">[Link do projeto no figma](https://www.figma.com/file/ibWktwVpnog76rMYOdVhks/Dispondo-elementos-com-flexbox-e-grid?node-id=54%3A2358)</button>
 
 ## Fonte
 
