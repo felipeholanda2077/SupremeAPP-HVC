@@ -6,7 +6,7 @@
 <br>
 
 
-## Fonte
+<h1 align="center">Fonte</h1>
 
 ```html
 Open Sans:
