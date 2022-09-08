@@ -6,7 +6,13 @@
 <img src="http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=green&style=for-the-badge"/>
 </p>
 
+<br>
 
+## Como Acessar
+
+<p>Para ser possivel se acessar selecione em git-hub pages dentro deste repositorio</p>
+
+<br>
 
 <h1 align="center">Guia de estilos</h1>
 
